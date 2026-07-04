@@ -4,7 +4,7 @@
 
 💻 Passionate about building scalable cloud infrastructure, automating deployments, and implementing DevSecOps best practices.
 
-☁️ AWS DevOps Engineer with **3.5+ years of experience** in designing, automating, and managing cloud-native infrastructure and CI/CD pipelines.
+☁️ AWS DevOps Engineer with **4 years of experience** in designing, automating, and managing cloud-native infrastructure and CI/CD pipelines.
 
 ⚙️ Specialized in **AWS, Kubernetes, Terraform, Jenkins, GitHub Actions, Docker, and DevSecOps**.
 
