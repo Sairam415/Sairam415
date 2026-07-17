@@ -34,7 +34,7 @@
 
 ## 💼 Professional Experience
 
-### 🚀 AWS DevOps Engineer
+### 🚀 AWS Cloud Engineer
 
 **IntouchCX** *(Client: MoonActive)*
 📍 Bengaluru | **Feb 2025 – Present**
