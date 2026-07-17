@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Gorantla Sai Ram**
 
-### 🚀 AWS DevOps Engineer | Cloud & DevOps
+### 🚀 AWS Cloud Engineer | Cloud & DevOps
 
 💻 Passionate about building scalable cloud infrastructure, automating deployments, and implementing DevSecOps best practices.
 
@@ -19,15 +19,15 @@
 | Category                   | Technologies / Tools                                                                                        |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | ☁️ Cloud                   | AWS (EC2, IAM, VPC, S3, RDS, Lambda, Route53, CloudWatch, ELB, Auto Scaling, CloudFront, EKS, CodePipeline) |
-| 🚀 CI/CD                   | Jenkins, GitHub Actions, Maven, ArgoCD, GitOps                                                              |
-| 📦 Containers              | Docker, Docker Compose, Kubernetes (Amazon EKS), Helm                                                       |
-| 🏗️ Infrastructure as Code | Terraform, Ansible                                                                                          |
+| 🚀 CI/CD                   | Jenkins, GitHub Actions                                                                                     |
+| 📦 Containers              | Docker, Kubernetes                                                                                          |
+| 🏗️ Infrastructure as Code  | Terraform, Ansible                                                                                          |
 | 🔐 DevSecOps               | SonarQube, Trivy, Nexus                                                                                     |
-| 📊 Monitoring              | Prometheus, Grafana, AWS CloudWatch, Nagios, ELK Stack                                                      |
+| 📊 Monitoring              | Prometheus, Grafana, AWS CloudWatch                                                                         |
 | 💻 Scripting               | Bash, Shell Scripting, Python                                                                               |
-| 🐧 Operating Systems       | Ubuntu Linux, Amazon Linux                                                                                  |
+| 🐧 Operating Systems       | Linux, Windows                                                                                              |
 | 🔧 Version Control         | Git, GitHub                                                                                                 |
-| 📋 Collaboration           | JIRA, ServiceNow, Confluence                                                                                |
+| 📋 Collaboration           | JIRA, ServiceNow                                                                                            |
 | 🌐 Application Server      | Apache Tomcat                                                                                               |
 
 ---
@@ -46,21 +46,6 @@
 * Integrated **SonarQube** and **Trivy** for DevSecOps
 * Built centralized monitoring using **Prometheus**, **Grafana**, and **CloudWatch**
 * Supported cloud migration and production environments
-
----
-
-### ⚙️ DevOps Engineer
-
-**Gigabyte Infocomm Pvt. Ltd.** *(Client: Instacart)*
-📍 Hyderabad | **Nov 2022 – Feb 2025**
-
-* Developed automated CI/CD pipelines using Jenkins, Git, Docker, and Maven
-* Provisioned AWS infrastructure using Terraform and Ansible
-* Implemented IAM RBAC for secure cloud provisioning
-* Optimized Docker images with multi-stage builds
-* Designed monitoring using CloudWatch and Nagios
-* Implemented Disaster Recovery using Terraform
-* Supported production deployments and troubleshooting
 
 ---
 
