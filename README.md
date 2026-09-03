@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Gorantla Sai Ram**
 
-### 🚀 AWS Cloud Engineer | Cloud & DevOps
+### 🚀 AWS DevOps Engineer | Cloud & DevOps
 
 💻 Passionate about building scalable cloud infrastructure, automating deployments, and implementing DevSecOps best practices.
 
@@ -34,7 +34,7 @@
 
 ## 💼 Professional Experience
 
-### 🚀 AWS Cloud Engineer
+### 🚀 AWS DevOps Engineer
 
 **IntouchCX** *(Client: MoonActive)*
 📍 Bengaluru | **Feb 2025 – Present**
