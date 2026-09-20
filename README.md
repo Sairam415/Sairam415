@@ -36,7 +36,7 @@
 
 ### 🚀 AWS DevOps Engineer
 
-**IntouchCX** *(Client: MoonActive)*
+**24-7 ai** *(Client: MoonActive)*
 📍 Bengaluru | **Feb 2025 – Present**
 
 * Automated CI/CD pipelines using **Jenkins** and **GitHub Actions**
