@@ -1,71 +1,134 @@
-👋 Hi, I'm Gorantla Sai Ram
-AWS DevOps Engineer | 4 Years of Experience | Cloud & Automation Enthusiast
+👋 Hey, I'm Gorantla Sai Ram!
+🚀 AWS DevOps Engineer | Cloud Infrastructure | CI/CD | Kubernetes
 
-AWS DevOps Engineer with 4 years of experience in cloud infrastructure management, CI/CD automation, containerization, Infrastructure as Code (IaC), and deployment automation.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+%7C+Automation;Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Cloud+Solutions" alt="Typing SVG" />
+</p>
 
-Experienced in AWS, Jenkins, Bamboo, Docker, Kubernetes, Terraform, Ansible, Git, and Linux administration. Passionate about automating infrastructure, improving deployment processes, and building reliable cloud environments.
+<p align="center">
+<img src="https://img.shields.io/badge/Experience-4%20Years-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-Automation-38BDF8?style=for-the-badge" />
+</p>
+
+👨‍💻 About Me
+
+I'm an AWS DevOps Engineer with 4 years of professional experience, passionate about cloud infrastructure, automation, containerization, and continuous delivery.
+
+I enjoy building scalable cloud environments, automating infrastructure provisioning, developing CI/CD pipelines, and improving application deployment workflows.
+
+☁️ Working with AWS cloud infrastructure and services.
+🔄 Building and maintaining CI/CD pipelines using Jenkins and Bamboo.
+🐳 Containerizing applications using Docker.
+☸️ Working with Kubernetes and Amazon EKS.
+🏗️ Automating infrastructure provisioning using Terraform.
+⚙️ Automating configuration management using Ansible.
+🐧 Working with Linux administration and Shell scripting.
+📊 Monitoring infrastructure using CloudWatch, Prometheus, and Grafana.
+🛠️ Tech Stack & Tools
+☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux" />
+</p>
+
+🔄 CI/CD & Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,bitbucket" />
+</p>
+
+🐳 Containers & Infrastructure Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible" />
+</p>
+
+💻 Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+📊 Monitoring & Collaboration
+
+Prometheus | Grafana | AWS CloudWatch | Jira | Confluence
 
 💼 Professional Experience
-IntouchCX
+🏢 IntouchCX
 
 AWS DevOps Engineer | 1 Year 2 Months
 
-Roles and Responsibilities:
+Key Responsibilities
 
-Designed, implemented, and maintained CI/CD pipelines using Jenkins and Bamboo to automate application build, testing, and deployment processes.
-Managed containerized applications using Docker and Kubernetes across multiple environments.
-Worked with Amazon EKS to deploy and manage Kubernetes-based applications.
-Provisioned and managed AWS cloud infrastructure using Terraform.
-Managed AWS services including EC2, VPC, IAM, S3, RDS, ECR, ELB, Auto Scaling, and CloudWatch.
-Automated infrastructure configuration and deployment activities using Ansible playbooks.
-Managed source code repositories using GitHub and Bitbucket, including branching, merging, and pull requests.
-Collaborated with development teams to streamline build, release, and deployment processes.
-Implemented application and infrastructure monitoring using Prometheus, Grafana, and AWS CloudWatch.
-Performed Linux administration and used Shell/Python scripting to automate repetitive operational tasks.
-Supported production deployments, troubleshot CI/CD pipeline failures, and performed root cause analysis.
-Followed DevSecOps practices and maintained deployment documentation and operational runbooks using Jira and Confluence.
-Softtalk Technologies Limited
+🚀 Designed and maintained CI/CD pipelines using Jenkins and Bamboo for automated build and deployment processes.
+🐳 Managed Docker containers and containerized application deployments.
+☸️ Worked with Kubernetes and Amazon EKS for application deployment and orchestration.
+🏗️ Provisioned and managed AWS infrastructure using Terraform.
+☁️ Managed AWS services including EC2, VPC, IAM, S3, RDS, ECR, ELB, Auto Scaling, and CloudWatch.
+⚙️ Automated infrastructure configuration and deployment using Ansible.
+🔀 Managed source code repositories using GitHub and Bitbucket.
+🤝 Collaborated with development teams to streamline build, release, and deployment workflows.
+📊 Implemented infrastructure and application monitoring using Prometheus, Grafana, and CloudWatch.
+🐧 Performed Linux administration and automated routine tasks using Shell and Python scripts.
+🔍 Troubleshot deployment failures, supported production releases, and performed root cause analysis.
+🔐 Followed DevSecOps practices and maintained operational documentation using Jira and Confluence.
+🏢 Softtalk Technologies Limited
 
 AWS DevOps Engineer | 2 Years 10 Months
 
-Roles and Responsibilities:
+Key Responsibilities
 
-Worked on AWS services such as EC2, S3, IAM, VPC, EBS, ELB, and CloudWatch to manage cloud infrastructure.
-Created, configured, and managed EC2 instances based on application and infrastructure requirements.
-Managed IAM users, groups, roles, and policies to provide secure access to AWS resources.
-Configured VPC components, including public and private subnets, route tables, Internet Gateways, and Security Groups.
-Managed S3 buckets, including bucket policies, versioning, and lifecycle configurations.
-Performed Linux server administration, including user management, file permissions, process monitoring, and troubleshooting.
-Managed source code repositories using Git and GitHub, including branching, merging, and resolving merge conflicts.
-Created and maintained Jenkins jobs and CI/CD pipelines to automate application build and deployment processes.
-Used Docker to build, manage, and deploy containerized applications.
-Worked with Kubernetes concepts such as Pods, Deployments, Services, ConfigMaps, and Namespaces.
-Used Shell scripting to automate routine administrative tasks and deployment activities.
-Monitored application and infrastructure performance using AWS CloudWatch and supported production deployments and troubleshooting activities.
-🛠️ Technical Skills
-Category	Technologies
-Cloud Platform	AWS
-AWS Services	EC2, S3, IAM, VPC, RDS, EKS, ECR, ELB, Auto Scaling, CloudWatch
+☁️ Worked with AWS services including EC2, S3, IAM, VPC, EBS, ELB, and CloudWatch.
+🖥️ Created, configured, and maintained EC2 instances based on application requirements.
+🔐 Managed IAM users, groups, roles, and policies.
+🌐 Configured VPC, public and private subnets, route tables, Internet Gateways, and Security Groups.
+📦 Managed S3 buckets, versioning, bucket policies, and lifecycle configurations.
+🐧 Performed Linux administration, user management, file permissions, and process monitoring.
+🔀 Managed Git and GitHub repositories, branching, merging, and conflict resolution.
+🔄 Created and maintained Jenkins jobs and CI/CD pipelines.
+🐳 Built and managed Docker images and containers.
+☸️ Worked with Kubernetes resources such as Pods, Deployments, Services, ConfigMaps, and Namespaces.
+⚡ Used Shell scripting to automate routine administrative and deployment activities.
+📊 Monitored application and infrastructure performance using CloudWatch and supported production deployments.
+🎯 Core Expertise
+Area	Skills
+Cloud	AWS
+AWS Services	EC2, S3, IAM, VPC, RDS, EKS, ECR, ELB, Auto Scaling
 CI/CD	Jenkins, Bamboo
-Containerization	Docker
-Container Orchestration	Kubernetes, Amazon EKS
-Infrastructure as Code	Terraform
+Containers	Docker, Kubernetes
+IaC	Terraform
 Configuration Management	Ansible
 Version Control	Git, GitHub, Bitbucket
 Monitoring	Prometheus, Grafana, CloudWatch
-Operating Systems	Linux, Ubuntu
-Scripting	Shell Scripting, Python
-Project Management	Jira, Confluence
+Scripting	Shell, Python
+OS	Linux, Ubuntu
+Collaboration	Jira, Confluence
 🎓 Education
 
-Bachelor of Technology (B.Tech)
-
+🎓 Bachelor of Technology (B.Tech)
 Chintalapudi Engineering College
-2018 – 2022
+📅 2018 – 2022
 
-📫 Connect With Me
-Email: sairgorantla@gmail.com
-GitHub: github.com/Sairam415
-Location: Bengaluru, India
+🤝 Let's Connect!
 
-⭐ Interested in AWS Cloud, DevOps Automation, Kubernetes, CI/CD, and Infrastructure as Code.
+<p align="center">
+<a href="mailto:sairgorantla@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Sairam415">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+<p align="center">
+📍 Bengaluru, India
+</p>
+
+<p align="center">
+<b>⚡ Automate Everything. Build Reliably. Deploy Confidently.</b>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
