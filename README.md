@@ -1,96 +1,71 @@
-# 👋 Hi, I'm **Gorantla Sai Ram**
+👋 Hi, I'm Gorantla Sai Ram
+AWS DevOps Engineer | 4 Years of Experience | Cloud & Automation Enthusiast
 
-### 🚀 AWS DevOps Engineer | Cloud & DevOps
+AWS DevOps Engineer with 4 years of experience in cloud infrastructure management, CI/CD automation, containerization, Infrastructure as Code (IaC), and deployment automation.
 
-💻 Passionate about building scalable cloud infrastructure, automating deployments, and implementing DevSecOps best practices.
+Experienced in AWS, Jenkins, Bamboo, Docker, Kubernetes, Terraform, Ansible, Git, and Linux administration. Passionate about automating infrastructure, improving deployment processes, and building reliable cloud environments.
 
-☁️ AWS DevOps Engineer with **2+ years of experience** in designing, automating, and managing cloud-native infrastructure and CI/CD pipelines.
+💼 Professional Experience
+IntouchCX
 
-⚙️ Specialized in **AWS, Kubernetes, Terraform, Jenkins, GitHub Actions, Docker, and DevSecOps**.
+AWS DevOps Engineer | 1 Year 2 Months
 
-📈 Experienced in Infrastructure as Code (IaC), GitOps, cloud migration, production support, monitoring, and container orchestration.
+Roles and Responsibilities:
 
-🌱 Always learning new cloud technologies and contributing to automation-driven solutions.
+Designed, implemented, and maintained CI/CD pipelines using Jenkins and Bamboo to automate application build, testing, and deployment processes.
+Managed containerized applications using Docker and Kubernetes across multiple environments.
+Worked with Amazon EKS to deploy and manage Kubernetes-based applications.
+Provisioned and managed AWS cloud infrastructure using Terraform.
+Managed AWS services including EC2, VPC, IAM, S3, RDS, ECR, ELB, Auto Scaling, and CloudWatch.
+Automated infrastructure configuration and deployment activities using Ansible playbooks.
+Managed source code repositories using GitHub and Bitbucket, including branching, merging, and pull requests.
+Collaborated with development teams to streamline build, release, and deployment processes.
+Implemented application and infrastructure monitoring using Prometheus, Grafana, and AWS CloudWatch.
+Performed Linux administration and used Shell/Python scripting to automate repetitive operational tasks.
+Supported production deployments, troubleshot CI/CD pipeline failures, and performed root cause analysis.
+Followed DevSecOps practices and maintained deployment documentation and operational runbooks using Jira and Confluence.
+Softtalk Technologies Limited
 
----
+AWS DevOps Engineer | 2 Years 10 Months
 
-## 🛠️ Tech Stack
+Roles and Responsibilities:
 
-| Category                   | Technologies / Tools                                                                                        |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ☁️ Cloud                   | AWS (EC2, IAM, VPC, S3, RDS, Lambda, Route53, CloudWatch, ELB, Auto Scaling, CloudFront, EKS, CodePipeline) |
-| 🚀 CI/CD                   | Jenkins, GitHub Actions                                                                                     |
-| 📦 Containers              | Docker, Kubernetes                                                                                          |
-| 🏗️ Infrastructure as Code  | Terraform, Ansible                                                                                          |
-| 🔐 DevSecOps               | SonarQube, Trivy, Nexus                                                                                     |
-| 📊 Monitoring              | Prometheus, Grafana, AWS CloudWatch                                                                         |
-| 💻 Scripting               | Bash, Shell Scripting, Python                                                                               |
-| 🐧 Operating Systems       | Linux, Windows                                                                                              |
-| 🔧 Version Control         | Git, GitHub                                                                                                 |
-| 📋 Collaboration           | JIRA, ServiceNow                                                                                            |
-| 🌐 Application Server      | Apache Tomcat                                                                                               |
+Worked on AWS services such as EC2, S3, IAM, VPC, EBS, ELB, and CloudWatch to manage cloud infrastructure.
+Created, configured, and managed EC2 instances based on application and infrastructure requirements.
+Managed IAM users, groups, roles, and policies to provide secure access to AWS resources.
+Configured VPC components, including public and private subnets, route tables, Internet Gateways, and Security Groups.
+Managed S3 buckets, including bucket policies, versioning, and lifecycle configurations.
+Performed Linux server administration, including user management, file permissions, process monitoring, and troubleshooting.
+Managed source code repositories using Git and GitHub, including branching, merging, and resolving merge conflicts.
+Created and maintained Jenkins jobs and CI/CD pipelines to automate application build and deployment processes.
+Used Docker to build, manage, and deploy containerized applications.
+Worked with Kubernetes concepts such as Pods, Deployments, Services, ConfigMaps, and Namespaces.
+Used Shell scripting to automate routine administrative tasks and deployment activities.
+Monitored application and infrastructure performance using AWS CloudWatch and supported production deployments and troubleshooting activities.
+🛠️ Technical Skills
+Category	Technologies
+Cloud Platform	AWS
+AWS Services	EC2, S3, IAM, VPC, RDS, EKS, ECR, ELB, Auto Scaling, CloudWatch
+CI/CD	Jenkins, Bamboo
+Containerization	Docker
+Container Orchestration	Kubernetes, Amazon EKS
+Infrastructure as Code	Terraform
+Configuration Management	Ansible
+Version Control	Git, GitHub, Bitbucket
+Monitoring	Prometheus, Grafana, CloudWatch
+Operating Systems	Linux, Ubuntu
+Scripting	Shell Scripting, Python
+Project Management	Jira, Confluence
+🎓 Education
 
----
+Bachelor of Technology (B.Tech)
 
-## 💼 Professional Experience
+Chintalapudi Engineering College
+2018 – 2022
 
-### 🚀 AWS DevOps Engineer
+📫 Connect With Me
+Email: sairgorantla@gmail.com
+GitHub: github.com/Sairam415
+Location: Bengaluru, India
 
-**24-7 ai** *(Client: MoonActive)*
-📍 Bengaluru | **Feb 2025 – Present**
-
-* Automated CI/CD pipelines using **Jenkins** and **GitHub Actions**
-* Managed Kubernetes workloads on **Amazon EKS**
-* Built reusable **Terraform modules** for AWS infrastructure
-* Implemented **Blue-Green** and **Rolling Deployments**
-* Integrated **SonarQube** and **Trivy** for DevSecOps
-* Built centralized monitoring using **Prometheus**, **Grafana**, and **CloudWatch**
-* Supported cloud migration and production environments
-
----
-
-## 📈 Key Achievements
-
-🏆 Reduced infrastructure provisioning time by **40%** using Terraform automation.
-
-🏆 Improved production incident resolution by **45%** using centralized monitoring.
-
-🏆 Reduced Docker image size by **25%** through multi-stage builds.
-
-🏆 Automated CI/CD pipelines for large-scale Kubernetes deployments on Amazon EKS.
-
-🏆 Integrated DevSecOps using SonarQube and Trivy to improve deployment security.
-
----
-
-## 🎯 Currently Focusing On
-
-* Kubernetes (Advanced)
-* GitOps with ArgoCD
-* AWS Solutions Architecture
-* Platform Engineering
-* DevSecOps
-* Multi-Cloud Technologies
-* AI for DevOps Automation
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [sairgorantla@gmail.com](mailto:sairgorantla@gmail.com)
-
-📱 **Phone:** +91 9347885748
-
-💼 **LinkedIn:** https://linkedin.com/in/sairamgorantla
-
----
-
-## 💡 DevOps Philosophy
-
-> **"Automate Everything. Monitor Everything. Improve Continuously."** 🚀
-
----
-
-### ⚡ Fun Fact
-
-> I enjoy transforming manual infrastructure into automated, scalable, and production-ready cloud platforms.
+⭐ Interested in AWS Cloud, DevOps Automation, Kubernetes, CI/CD, and Infrastructure as Code.
